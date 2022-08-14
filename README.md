@@ -10,8 +10,6 @@ I like automating things, building pipelines, exploring scalability problems and
 	<li>Time series modeling on AP data.</li>
 </ul>
 
------
-
 ### My skills include
 
 <p align="center">
@@ -22,8 +20,6 @@ I like automating things, building pipelines, exploring scalability problems and
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
 	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 </p>
-
------
 
 ### My statistics
 
