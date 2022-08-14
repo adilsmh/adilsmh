@@ -6,7 +6,9 @@ A data scientist apprentice passionate about Data Science :bar_chart:. <br>
 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 
 🔭 I’m currently working on:
-	- Time series modeling on AP data.
+<ol>
+	<li>- Time series modeling on AP data.</li>
+</ol>
 
 ### My skills include
 
