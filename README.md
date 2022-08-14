@@ -10,6 +10,8 @@ I like automating things, building pipelines, exploring scalability problems and
 	<li>Time series modeling on AP data.</li>
 </ul>
 
+-----
+
 ### My skills include
 
 <p align="center">
@@ -21,9 +23,15 @@ I like automating things, building pipelines, exploring scalability problems and
 	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 </p>
 
+-----
+
 ### My statistics
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adilsmh&count_private=true&theme=tokyonight&showicons=true)]()
+
+-----
+
+### Contact me
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
