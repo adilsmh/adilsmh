@@ -7,7 +7,7 @@ I like automating things, building pipelines, exploring scalability problems and
 
 🔭 I’m currently working on:
 <ul>
-	<li>- Time series modeling on AP data.</li>
+	<li>Time series modeling on AP data.</li>
 </ul>
 
 ### My skills include
