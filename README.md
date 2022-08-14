@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 
-A data scientist apprentice passionate about Data Science :bar_chart:. 
+A data scientist apprentice passionate about Data Science :bar_chart:. <br>
 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 
 - 🔭 I’m currently working on:
