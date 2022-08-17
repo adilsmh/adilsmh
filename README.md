@@ -1,4 +1,4 @@
-### Salut / Welcome 👋
+### Welcome 👋
 
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 
@@ -31,5 +31,3 @@ I like automating things, building pipelines, exploring scalability problems and
   <a target="_blank" href="mailto:adilsoumah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
-
-Template credits: [Thomas-George-T](https://github.com/Thomas-George-T)
