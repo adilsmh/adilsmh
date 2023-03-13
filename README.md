@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Adil</h1>
 <h3 align="left">Passionné et autonome, j'utilise mes compétences pour extraire les informations les plus impactantes à partir de l’ensemble de données disponibles, pour fournir une prise de décision éclairée. Mon expertise se concentre sur la collecte et analyse de l'ensemble des données pertinentes et la modélisation et mise en production de la solution de prédiction la plus adaptée aux besoins du client.</h3>
 
-- 🌱 I’m currently learning **Scala, Spark, Kafka**
+🌱 I’m currently learning **Scala, Spark, Kafka**
 
-- 📫 How to reach me **adilsoumah@gmail.com**
+📫 How to reach me **adilsoumah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
