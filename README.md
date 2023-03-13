@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Adil</h1>
-<h3 align="left">Passionné et autonome, j'utilise mes compétences pour extraire les informations les plus impactantes à partir de l’ensemble de données disponibles, pour fournir une prise de décision éclairée. <br>
-Mon expertise se concentre sur la collecte et analyse de l'ensemble des données pertinentes, la modélisation et la mise en production de la solution de prédiction la plus adaptée aux besoins du client.</h3>
+<h3 align="left">I'm a Data Scientist who is passionate about using my analytical skills to uncover valuable insights and drive data-driven decision making. <br>
+My expertise lies in applying statistical analysis, machine learning, and programming to complex data sets to uncover hidden patterns and trends. <br>
+I'm always up for a challenge and enjoy solving complex problems while communicating my findings in a straightforward and actionable way.</h3>
 
 🌱 I’m currently learning **Scala, Spark, Kafka** <br>
 📫 How to reach me **adilsoumah@gmail.com**
