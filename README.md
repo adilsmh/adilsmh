@@ -3,7 +3,6 @@
 Mon expertise se concentre sur la collecte et analyse de l'ensemble des données pertinentes, la modélisation et la mise en production de la solution de prédiction la plus adaptée aux besoins du client.</h3>
 
 🌱 I’m currently learning **Scala, Spark, Kafka**
-
 📫 How to reach me **adilsoumah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
